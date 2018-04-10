@@ -4,4 +4,4 @@ This repository contains the blog content for [darrensim.io](https://darrensim.i
 
 # Contributions
 
-The author of this site welcomes contributions by means of pull requests.
+The author of this site welcomes contributions by means of [pull requests](https://github.com/darrensimio/blog-content/wiki/Contributions-&-Pull-Requests).
