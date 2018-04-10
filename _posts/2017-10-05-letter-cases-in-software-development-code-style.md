@@ -42,3 +42,5 @@ Practice of writing compound words or phrases in which the elements are separate
 Practice of writing compound words or phrases in which the elements are separated with one dash character (-), no spaces and every word capitalized.
 
 <strong>Examples</strong>: John-Doe, Last-Connection-Date
+
+`test-entry`
