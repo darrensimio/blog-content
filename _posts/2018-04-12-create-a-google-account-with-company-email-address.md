@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-04-12 01:02:36
 ---
-Almost every website that we head on to do something useful, will require us to create an account. Some of these sites have taken the approach of using identity providers such as Facebook, Google, Twitter &amp; Microsoft.
+Almost every website that we head on to do something useful, will require us to create an account. Some of these sites have taken the approach of using popular identity providers such as <strong>Facebook</strong>, <strong>Google</strong>, <strong>Twitter</strong> &amp; <strong>Microsoft</strong>, to simplify the on-boarding experience for users.
 
 <a href="https://accounts.google.com/SignUpWithoutGmail?hl=en" target="_blank" rel="noopener">https://accounts.google.com/SignUpWithoutGmail?hl=en</a>
 
