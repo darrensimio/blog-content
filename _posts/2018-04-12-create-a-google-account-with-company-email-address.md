@@ -21,4 +21,8 @@ While most consumer-focused websites support <strong>Facebook</strong>, <strong>
 
 Signing up for a <a href="https://en.wikipedia.org/wiki/Google_Account" target="_blank" rel="noopener"><strong>Google account</strong></a> is FREE, and you can register for a <a href="https://en.wikipedia.org/wiki/Google_Account" target="_blank" rel="noopener"><strong>Google account</strong></a> using your work email (or non-gmail email). You do not need a <a href="https://en.wikipedia.org/wiki/G_Suite" target="_blank" rel="noopener">G Suite</a> (previously known as Google Apps) account for this.
 <h3>Create a Google Account with Company Email Address</h3>
-<a href="https://accounts.google.com/SignUpWithoutGmail?hl=en" target="_blank" rel="noopener">https://accounts.google.com/SignUpWithoutGmail?hl=en</a>
+Creating an account is easy, simply head on to <a href="https://accounts.google.com/SignUpWithoutGmail?hl=en" target="_blank" rel="noopener">https://accounts.google.com/SignUpWithoutGmail?hl=en</a>, and fill out this form as you will normally do when you create a new Google Account.
+
+<a href="https://accounts.google.com/SignUpWithoutGmail?hl=en"><img class="aligncenter size-full wp-image-118" src="https://darrensim.io/wp-content/uploads/2018/04/Create-Google-Account-Without-Gmail-Form.png" alt="" width="887" height="781" /></a>
+
+(Note: This form is specifically for creating a google account without the need of Gmail.)
