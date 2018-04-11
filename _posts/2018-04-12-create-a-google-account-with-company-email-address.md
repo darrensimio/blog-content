@@ -11,3 +11,12 @@ permalink: >
 published: true
 post_date: 2018-04-12 01:02:36
 ---
+Almost every website that we head on to do something useful, will require us to create an account. Some of these sites have taken the approach of using identity providers such as Facebook, Google, Twitter &amp; Microsoft.
+
+<a href="https://accounts.google.com/SignUpWithoutGmail?hl=en" target="_blank" rel="noopener">https://accounts.google.com/SignUpWithoutGmail?hl=en</a>
+
+<a href="https://oauth.io/providers" target="_blank" rel="noopener">https://oauth.io/providers</a>
+<h3>Additional Readings</h3>
+<ul>
+ 	<li><strong>Authentication and Authorization: OpenID vs OAuth2 vs SAML</strong> - <a href="https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/" target="_blank" rel="noopener">https://spin.atomicobject.com/2016/05/30/openid-oauth-saml/</a></li>
+</ul>
