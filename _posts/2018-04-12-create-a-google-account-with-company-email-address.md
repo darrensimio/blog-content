@@ -24,7 +24,5 @@ Signing up for a <a href="https://en.wikipedia.org/wiki/Google_Account" target="
 Creating an account is easy, simply head on to <a href="https://accounts.google.com/SignUpWithoutGmail?hl=en" target="_blank" rel="noopener">https://accounts.google.com/SignUpWithoutGmail?hl=en</a>, and fill out this form as you will normally do when you create a new Google Account.
 
 <a href="https://accounts.google.com/SignUpWithoutGmail?hl=en"><img class="aligncenter size-full wp-image-118" src="https://darrensim.io/wp-content/uploads/2018/04/Create-Google-Account-Without-Gmail-Form.png" alt="" width="887" height="781" /></a>
-
-(Note: This form is specifically for creating a google account without the need of Gmail.)
-
+<p style="text-align: center;">(Note: This form is specifically for creating a google account without the need of Gmail.)</p>
 As part of the sign-up process, Google will send you an email (to the address specified) to verify that the email actually belongs to you. Once the verification is completed, your account is all ready to go!
