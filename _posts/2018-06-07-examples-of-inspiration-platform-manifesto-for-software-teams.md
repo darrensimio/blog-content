@@ -2,12 +2,12 @@
 ID: 155
 post_title: >
   Examples of Inspiration Platform
-  Manifestos for Software Teams
+  Manifesto for Software Teams
 author: Darren Sim
 post_excerpt: ""
 layout: post
 permalink: >
-  https://darrensim.io/posts/examples-of-inspiration-platform-manifestos-for-software-teams/
+  https://darrensim.io/posts/examples-of-inspiration-platform-manifesto-for-software-teams/
 published: true
 post_date: 2018-06-07 10:49:06
 ---
