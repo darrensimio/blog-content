@@ -18,3 +18,8 @@ post_date: 2018-06-07 10:33:04
 <strong>Proficient</strong> – need the big picture and will not function well without it. They can reflect on how well they are doing and draw upon their experience to improve. Can draw relevant information from the experience of others rather than taking it in as a whole.
 
 <strong>Expert</strong> – no longer require rules and guidelines to function, will intuitively know what to do in a given situation. They will also constantly seek to find better ways of doing things.
+<h3>Source</h3>
+<ul>
+ 	<li><a href="https://animationresources.org/dreyfus-model" rel="noopener" target="_blank">https://animationresources.org/dreyfus-model</a></li>
+	<li><a href="https://www.skorks.com/2009/08/building-software-development-expertise-using-the-dreyfus-model/" rel="noopener" target="_blank">https://www.skorks.com/2009/08/building-software-development-expertise-using-the-dreyfus-model/</a></li>
+</ul>
