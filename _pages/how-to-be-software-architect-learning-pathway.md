@@ -10,6 +10,7 @@ published: true
 post_date: 2018-06-25 09:24:42
 ---
 [vc_row][vc_column][vc_column_text]
+<h3>Knowledge List</h3>
 <ul>
  	<li>Programming Paradigms</li>
  	<li>Gang-of-Four Design Patterns</li>
