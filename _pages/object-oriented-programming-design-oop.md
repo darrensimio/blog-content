@@ -5,7 +5,7 @@ author: dsimioadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  https://darrensim.io/how-to-be-software-architect-learning-pathway/object-oriented-programming-design/
+  https://darrensim.io/how-to-be-software-architect/object-oriented-programming-design-oop/
 published: true
 post_date: 2018-06-25 09:36:29
 ---
