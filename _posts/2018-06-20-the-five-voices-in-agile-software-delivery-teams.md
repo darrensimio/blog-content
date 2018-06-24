@@ -2,7 +2,7 @@
 ID: 172
 post_title: >
   The Five Voices in Agile Software
-  Delivery Teamst
+  Delivery Teams
 author: Darren Sim
 post_excerpt: ""
 layout: post
