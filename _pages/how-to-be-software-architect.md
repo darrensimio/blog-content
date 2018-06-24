@@ -5,7 +5,7 @@ author: Darren Sim
 post_excerpt: ""
 layout: page
 permalink: >
-  https://darrensim.io/how-to-be-software-architect-learning-pathway/
+  https://darrensim.io/how-to-be-software-architect/
 published: true
 post_date: 2018-06-25 09:24:42
 ---
