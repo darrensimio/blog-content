@@ -68,7 +68,7 @@ In order to better understand if features were developed and delivered in a way 
 Given that this service needs to be able to form toggle configurations dynamically based on a user’s profile, locality and many other factors, a highly dynamic service is required. Leading vendors that offers such services include FeatureAvailability.IO, Launch Darkly, and Split.IO. Given that these services usually offer very similar feature offerings and pricing, decisions usually boils down to product roadmaps, and quality of support. Flagr and Petri are two popular open source options that can be downloaded and self-hosted.
 
 Commercially operated solutions typically charge based on a per-request model; hence implementing on stateless functions (e.g. AWS Lamda) can be costly given that caching of this state is not possible. Feature Toggle states are usually cached for up to a minute within an application to reduce the chattiness between the application and the Feature Toggle service.
-<h3>Lessons Learnt</h3>
+<h3>Feature Toggle Best Practices</h3>
 Feature Toggling is a useful technique that helps team avoid painful merge conflicts, experiment and learn fast; however not without risks. Here are some of my lessons learnt and best practices:
 
 <strong>Business Metric and Traffic Monitoring Dashboard</strong>
