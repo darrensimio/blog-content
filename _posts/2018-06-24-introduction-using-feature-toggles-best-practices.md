@@ -11,6 +11,7 @@ permalink: >
 published: true
 post_date: 2018-06-24 18:40:40
 ---
+<pre>This article was first published in the <a href="https://web.archive.org/web/20180624072619/https://pragprog.com/news/node-js-8-the-right-way-practical-server-side-javascript-that-scales-in-print-january-pragpub" target="_blank" rel="noopener">Jan 2018 issue</a> of <a href="https://theprosegarden.com/" target="_blank" rel="noopener">Pragmatic Publications Magazine</a>.</pre>
 As software professionals, success is measured by our ability to improve our users’ lives.
 
 Unlike other engineering fields which have been around for hundreds of years, the software engineering discipline has existed for barely a hundred years. As an industry, software development is still largely part-art, part-science.
