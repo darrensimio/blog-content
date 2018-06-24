@@ -35,7 +35,7 @@ Some of the benefits that Feature Toggles bring to the table include helping tea
 
 One of the most common misunderstandings of Feature Toggles is that it can double as a licensing and authorization service. This results in tight coupling of responsibility and should be avoided.
 <h3>Types of Feature Toggles</h3>
-In his thought-leading article “Feature Toggles (aka Feature Flags)”, Pete Hodgson extended Martin Fowler’s original post “FeatureToggle”, nicely categorizing Feature Toggles into FOUR categories:
+In his thought-leading article <a href="https://martinfowler.com/articles/feature-toggles.html" target="_blank" rel="noopener">“Feature Toggles (aka Feature Flags)”</a>, <a href="http://blog.thepete.net/" target="_blank" rel="noopener">Pete Hodgson</a> extended <a href="https://martinfowler.com/aboutMe.html" target="_blank" rel="noopener">Martin Fowler</a>’s original post “<a href="https://martinfowler.com/bliki/FeatureToggle.html" target="_blank" rel="noopener">FeatureToggle</a>”, nicely categorizing Feature Toggles into FOUR categories:
 
 <strong>Short-Lived Toggles</strong>
 
@@ -77,31 +77,26 @@ As Martin Fowler has put it, while release toggles is a useful technique that is
 
 <strong>Avoid Coupling Decision Point and Toggle Router</strong>
 Decision point is defined as the location in the code that calls the toggle router, while the Toggle router contains the logic to check if a certain decision point is active by reading toggling configurations to detect features, or simply detect an Toggle Context.
-
 <pre>if(User == “john@doe.com” &amp;&amp; Weather == “Sunny”){
       DoSomething();
 }</pre>
-
 <pre>if(User.Segment == “Beta”){
       DoSomething();
 }</pre>
-
 The two examples above exemplifies patterns we want to avoid, as they tightly couple toggles decisions into the application logic.
-
 <pre>if(FeatureSwitchSvc.IsPsychicEnabled){
       DoSomething();
 }</pre>
-
 What we want instead, is to de-couple decision points from decision logic by introducing a decision object that implements that logic. In this way, the strategy-pattern can be applied, encapsulating routing conditions to the routing layer. Thus a change in feature grouping will not break the code.
 
 <strong>Avoid Nesting Feature Toggles</strong>
 If nesting if-statements increases the cyclomatic complexity; nesting Feature Toggles increases that by many folds.
 
 <strong>Dashboard with Feature Toggles Longevity</strong>
-Like branches, long-lived feature toggles should be avoided as it adds significant complexity to the application and causes the code-base to be brittle over time. While it is easy to visualize how many stale branches you have in Github, long-lived feature toggles are less obvious and runs the risks of snuggling in forever. Hence a physical or digital dashboard in the team area that keeps track of the longevity of each Feature Toggle is always a good practice. 
+Like branches, long-lived feature toggles should be avoided as it adds significant complexity to the application and causes the code-base to be brittle over time. While it is easy to visualize how many stale branches you have in Github, long-lived feature toggles are less obvious and runs the risks of snuggling in forever. Hence a physical or digital dashboard in the team area that keeps track of the longevity of each Feature Toggle is always a good practice.
 
 <strong>Always Check for Security</strong>
-One of the common misconceptions is that if you hide a feature behind a feature flag, it is not accessible and hence we do not have to worry about security. This is untrue and a dangerous mindset to have in software development; a phenomenal known as "the security sandwich". Consider a feature toggle implemented on the front-end. What is stopping a malicious user from manually setting that flag to true in the console? Security as an afterthought is always recipe for trouble. 
+One of the common misconceptions is that if you hide a feature behind a feature flag, it is not accessible and hence we do not have to worry about security. This is untrue and a dangerous mindset to have in software development; a phenomenal known as "the security sandwich". Consider a feature toggle implemented on the front-end. What is stopping a malicious user from manually setting that flag to true in the console? Security as an afterthought is always recipe for trouble.
 
 <strong>Automated Tests Should Exercise Both Toggle On and Off States</strong>
 If TDD is practiced in the team, it is always a good habit to practice red-green-refactor. When implementing feature toggles, it is always important that automated tests exercise flows with the switch turned on, and off, to avoid regressions. While this is not a silver bullet, it helps radiate obvious regressions. The added complexity in testing introduced by feature toggles warrants reviewing existing test strategies; constant and effective communication between between members of the development team is also important.
