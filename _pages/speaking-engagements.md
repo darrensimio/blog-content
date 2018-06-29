@@ -11,7 +11,7 @@ post_date: 2018-04-01 03:35:45
 ---
 I've been speaking &amp; sharing at conferences, meet-ups &amp; user groups since 2005. I took a hiatus in 2013, before my passion to speak was reignited in 2017 at the urging of my co-workers and mentors, whom I have the privilege of working with, and learning from everyday.
 
-[gallery link="none" ids="262,264"]
+[gallery link="none" ids="262,264,266"]
 
 I speak mainly on topics relating to software development practices &amp; tools, as well as digital strategies and the digital economy. These talks are formulated based on my years of experience as a consultant, and working at various capacities in software development teams.
 
