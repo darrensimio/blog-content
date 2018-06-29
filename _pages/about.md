@@ -1,47 +1,33 @@
 ---
 ID: 6
 post_title: About
-author: dsimioadmin
+author: Darren Sim
 post_excerpt: ""
 layout: page
 permalink: https://darrensim.io/about/
 published: true
 post_date: 2018-04-01 03:33:51
 ---
-Darren is a polyglot full-stack software engineer, conference speaker and home chef.
+<img class="alignright wp-image-182 size-medium" src="https://darrensim.io/wp-content/uploads/2018/06/darren-profile-small-300x300.jpeg" alt="Darren Sim (Profile Picture)" width="300" height="300" />
 
-Since 2003, Darren has worked in the software industry in various capacities: Digital &amp; Strategy Consultant, Software Development Engineer, Web User Experience Engineer, Research Engineer, Software Test Engineer, Development Lead, Technical Trainer, and Technical Evangelist.
+Darren Sim is a polyglot full-stack Software Developer, Technical Lead, Conference Speaker, and Author.
 
-During this time, Darren had the privilege to work with Startups, Small &amp; Medium Enterprises (SME), and Multi-Nationals in the following industry verticals: Accounting, Digital Media, Education, Government, Military, Retail, Security, Software, and Supply Chain. Countries that Darren has worked in include, New Zealand, Singapore and the United States (USA).
+Starting his career in IT since 2013, Darren has amassed over 15 years of professional work experiences in various capacities: Technical Lead, Software Architect, Consultant (Digital Strategy), Software Security Researcher, Technical Evangelist, Technical Trainer, Full-stack Software Developer, Software Test Engineer, Data Analyst and Web Designer.
 
-A firm believer that knowledge is the only investment that appreciates with time, Darren actively acquires new knowledge &amp; skills through learning, unlearning, relearning. In his efforts to give back to the community, Darren can be constantly found <a href="http://darrensim.io/speaking-engagements/" target="_blank" rel="noopener">speaking at conferences</a>, sharing on topics such as Business Strategy, Evolutionary Architecture, Modern Agile, Software Craftsmanship, Web Development, Software Security, DevOps and Feature Toggles. Darren has also co-authored <a href="http://darrensim.io/publications/" target="_blank" rel="noopener">2 scientific papers</a> on RFID security, contributed to a Microsoft Patterns &amp; Practices <a href="http://darrensim.io/publications/" target="_blank" rel="noopener">Whitepaper</a>.
+During this time, Darren had the privilege to work with a variety of organisations, from Startups (10+ employees) to Multi National Corporations (10K+ employees) in the following industry verticals: Accounting, Digital Media, Education, Government, Insurance, Medical, Military, Retail, Security, Supply Chain, and Tech. Countries that Darren has worked in includes, New Zealand, Singapore and the United States (USA).
 
-In recognition for his efforts, Darren received numerous awards including the Oracle Corporate Singapore Prize, AVAYA Singapore Prize, Frontline Technologies Prize, IDA Singapore Course Silver Medal, Golden Web Awards, Microsoft’s Top Student Champion (FY06), the MYOB Ignition Awards and the Microsoft Most Valuable Professional (MVP) Award for 8 years in a row, placing him in the MVP Hall-of-Fame.
+Darren draws upon a background of change management, design thinking, system thinking, lean/agile/learning theories and hands-on development to bring a unique perspective tightly blending technical, organisational and leadership concerns.
 
-Darren was an invited member of the Microsoft Developer Guidance Web Advisory Council and the United Nations (UN) Expert Group Meeting on Public Private Partnerships (PPP) and MDGs implementation ’09, held in Geneva, Switzerland.
+<blockquote>"<em>An investment in knowledge pays the best</em> interest."
 
-Educated in Singapore, Darren received his Diploma with Merit in Information Technology from <a href="http://www.tp.edu.sg" target="_blank" rel="noopener">Temasek Polytechnic (TP)</a> and his Bachelors of Science in Information System from the <a href="http://www.smu.edu.sg" target="_blank" rel="noopener">Singapore Management University (SMU)</a>. Darren was a valedictorian, university scholar, student leader, teaching assistant, as well as a research assistant.
+-- Benjamin Franklin</blockquote>
 
-Darren enjoys photography, cooking, reading, coding, and traveling. In his free time, Darren can be found in cafes catching up on readings, or in his bedroom building a home automation system.
+A firm believer that "<em>an investment in knowledge pays the best dividends</em>", and "<em>the best way to learn something is to teach</em>", Darren actively acquires new knowledge through the process of <em><strong>learning</strong></em>, <em><strong>sharing</strong></em>, <em><strong>unlearning</strong></em>, and <em><strong>relearning</strong></em>. Darren is frequently found sharing his learnings at <a href="https://darrensim.io/speaking-engagements/" target="_blank" rel="noopener">conferences</a>, and through <a href="https://darrensim.io/blog/">writing</a>.
 
-<h3>Values</h3>
-<strong>COMMITMENT</strong>
-Sticking to an agreement and seeing it through to completion.
+Over the years, Darren has received numerous accolades including the Oracle Corporate Singapore Prize, AVAYA Singapore Prize, Frontline Technologies Prize, IDA Singapore Course Silver Medal, Golden Web Awards, Microsoft’s Top Student Champion (FY06), the MYOB Ignition Awards and the Microsoft Most Valuable Professional (MVP) Award for 8 years in a row, placing him in the MVP Hall-of-Fame.
 
-<strong>INTEGRITY</strong>
-Upholding honesty and truthfulness in oneself and to others.
+Darren was the Asia Pacific Editor for the <a href="http://web.archive.org/web/20100420140137/http://apac.ineta.org:80/Newsletter/English/March2009/tabid/337/Default.aspx" target="_blank" rel="noopener">International .NET Association (INETA)</a>, an invited member of the Microsoft Developer Guidance Web Advisory Council and an invited technical expert to the United Nations (UN) Expert Group Meeting on Public Private Partnerships (PPP) and MDGs implementation ’09, held in Geneva, Switzerland.
 
-<strong>RESPONSIBILITY</strong>
-Taking ownership and accountability for one’s actions.
+Educated in Singapore, Darren received his Diploma with Merit in Information Technology from <a href="http://www.tp.edu.sg/" target="_blank" rel="noopener">Temasek Polytechnic</a> and his Bachelors of Science in Information System from the <a href="https://www.smu.edu.sg/" target="_blank" rel="noopener">Singapore Management University</a>. Darren was a valedictorian, university scholar, student leader, teaching assistant, as well as a <a href="https://dblp.uni-trier.de/pers/hd/s/Sim:Darren" target="_blank" rel="noopener">research assistant</a>.
 
-<strong>COLLEGIALITY</strong>
-Valuing people and building positive and lasting relationships.
-
-<strong>LEADERSHIP</strong>
-Leading and motivating others to achieve long-term goals.
-
-<strong>EXCELLENCE</strong>
-Striving to exceed personal and external benchmarks.
-
-<strong>PRAGMATISM</strong>
-Being down to earth and realistic
+In his free time, Darren enjoys photography, reading, and exploring cultures.
