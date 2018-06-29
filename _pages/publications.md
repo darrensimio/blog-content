@@ -17,9 +17,11 @@ Over the years, I've used many tools ranging from the more traditional pen and p
 This spurred my desire to use the best information retrieval tool in the market - Google Search; this saw the birth of this blog. Apart from benefitting from the state-of-the-art information retrieval capabilities of the Google Search Engine, I also learned a lot from comments by visitors who are kind enough to share their views and correct my understanding.
 
 Apart from capturing my learnings, I have also contribute to papers as a reviewer or co-author.
-
 <h3>Publications</h3>
+<h4><a href="https://web.archive.org/web/20180624072619/https://pragprog.com/news/node-js-8-the-right-way-practical-server-side-javascript-that-scales-in-print-january-pragpub" target="_blank" rel="noopener">Reducing Complexity and Shortening Feedback Loops with Feature Toggles</a></h4>
+Jan, 2018 / PragPub Magazine
 
+One of the challenges of Continuous Delivery (CD) arises when a feature spans multiple commits, and an urgent fix needs to be released before the development of that feature is complete. When a feature is completed and deployed to production, teams also need a way to experiment safely, beta testing with a small group of users and being able to roll back quickly if an undesirable experience is observed. Feature toggles to the rescue. This article explains this practice, which was common twenty years ago and is being rediscovered today.
 <h4 class="pv-accomplishment-entity__title" style="display: inline !important;"><a href="http://msdn.microsoft.com/en-us/library/windows/apps/jj863142.aspx" target="_blank" rel="noopener">Developing an end-to-end Windows Store app using JavaScript: Hilo</a></h4>
 <p class="pv-accomplishment-entity__subtitle"><span class="pv-accomplishment-entity__date">Nov 29, 2012 </span><span class="pv-accomplishment-entity__publisher"> <span class="visually-hidden">/ </span>Microsoft Patterns &amp; Practices</span></p>
 <p class="pv-accomplishment-entity__description Sans-15px-black-70%">The JavaScript version of the Hilo photo sample provides guidance to JavaScript developers who want to create a Windows 8 app using HTML, CSS, JavaScript, the Windows Runtime, and modern development patterns. Hilo comes with source code and documentation.</p>
