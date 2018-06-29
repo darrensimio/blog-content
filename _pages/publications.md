@@ -18,7 +18,7 @@ This spurred my desire to use the best information retrieval tool in the market 
 
 Apart from capturing my learnings, I have also contribute to papers as a reviewer or co-author.
 <h3>Publications</h3>
-<h4><a href="https://web.archive.org/web/20180624072619/https://pragprog.com/news/node-js-8-the-right-way-practical-server-side-javascript-that-scales-in-print-january-pragpub" target="_blank" rel="noopener">Reducing Complexity and Shortening Feedback Loops with Feature Toggles</a></h4>
+<h4 class="pv-accomplishment-entity__title" style="display: inline !important;"><a href="https://web.archive.org/web/20180624072619/https://pragprog.com/news/node-js-8-the-right-way-practical-server-side-javascript-that-scales-in-print-january-pragpub" target="_blank" rel="noopener">Reducing Complexity and Shortening Feedback Loops with Feature Toggles</a></h4>
 Jan, 2018 / PragPub Magazine
 
 One of the challenges of Continuous Delivery (CD) arises when a feature spans multiple commits, and an urgent fix needs to be released before the development of that feature is complete. When a feature is completed and deployed to production, teams also need a way to experiment safely, beta testing with a small group of users and being able to roll back quickly if an undesirable experience is observed. Feature toggles to the rescue. This article explains this practice, which was common twenty years ago and is being rediscovered today.
