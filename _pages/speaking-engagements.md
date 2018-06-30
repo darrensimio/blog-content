@@ -30,7 +30,9 @@ If you find that any of these topics are relevant to a <strong>conference</stron
 
 [/vc_column_text][vc_column_text]
 <h3>Past Speaking Engagements (Beta)</h3>
-<code>[events_list scope="past" limit="10"]</code>[/vc_column_text][vc_column_text]
+<code>[events_list scope="past" orderby="event_start_date" order="DESC" limit="10"]</code>
+
+[/vc_column_text][vc_column_text]
 <h3>Past Speaking Engagements</h3>
 [table id=1 /]
 
