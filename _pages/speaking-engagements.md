@@ -26,7 +26,9 @@ After a successful 8-year stint, <a href="https://darrensim.io/about/" target="_
 </ul>
 If you find that any of these topics are relevant to a <strong>conference</strong>, <strong>user-group</strong>, <strong>meet-up</strong>, <strong>event</strong> that you are organising, and will like to <a href="https://darrensim.io/contact/" target="_blank" rel="noopener">invite Darren</a> to <strong>share his experiences</strong>, please feel free to <a href="https://darrensim.io/contact/" target="_blank" rel="noopener">get-in touch</a>. While <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> has content developed for these topics, a <strong>two-weeks heads-up</strong> is always appreciated.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h3>Upcoming Speaking Engagements</h3>
-<code>[events_list limit="3"]</code>[/vc_column_text][vc_column_text]
+<code>[events_list scope="future" limit="3"]</code>
+
+[/vc_column_text][vc_column_text]
 <h3>Past Speaking Engagements (Beta)</h3>
 <code>[events_list scope="past" limit="10"]</code>[/vc_column_text][vc_column_text]
 <h3>Past Speaking Engagements</h3>
