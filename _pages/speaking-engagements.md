@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-01 03:35:45
 ---
-<a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren Sim</a> is highly sought-after international tech speaker at conferences, meet-ups and user-groups since 2005. Having delivered over 50 sessions in Australasia (New Zealand), Asia (Singapore, Malaysia, Vietnam &amp; Thailand), and the Americas (USA), <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> is frequently ranked amongst the top 25% of speakers.
+<a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren Sim</a> is highly sought-after <strong>international tech speaker</strong> at <strong>conferences</strong>, <strong>meet-ups</strong> and <strong>user-groups</strong> since 2005. Having delivered over 50 sessions in Australasia (New Zealand), Asia (Singapore, Malaysia, Vietnam &amp; Thailand), and the Americas (USA), <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> is frequently ranked amongst the top 25% of speakers.
 
 [gallery link="none" ids="262,264,266"]
 
