@@ -30,9 +30,7 @@ If you find that any of these topics are relevant to a <strong>conference</stron
 
 [/vc_column_text][vc_btn title="View More &gt;&gt;&gt;" size="sm" align="right" link="url:https%3A%2F%2Fdarrensim.io%2Fevents%2F|||"][vc_column_text]
 <h3>Past Speaking Engagements (Beta)</h3>
-<code>[events_list scope="past" orderby="event_start_date" order="DESC" limit="10"]</code>
-
-[/vc_column_text][vc_btn title="View More &gt;&gt;&gt;" size="sm" align="right" link="url:https%3A%2F%2Fdarrensim.io%2Fevents%2F|||"][vc_column_text]
+<code>[events_list scope="past" orderby="event_start_date" order="DESC" limit="5"]</code>[/vc_column_text][vc_btn title="View More &gt;&gt;&gt;" size="sm" align="right" link="url:https%3A%2F%2Fdarrensim.io%2Fevents%2F|||"][vc_column_text]
 <h3>Past Speaking Engagements</h3>
 [table id=1 /]
 
