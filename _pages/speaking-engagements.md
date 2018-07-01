@@ -15,7 +15,7 @@ post_date: 2018-04-01 03:35:45
 
 Topics that <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> has spoken on includes: Digital Strategy, Digital Media, Modern Agile, Game Development, Web Development (AJAX, ASP.NET &amp; WebApi), Software Security, Software Delivery (DevOps &amp; FeatureToggles), and Software Project Management.
 
-After a successful 8-year stint, <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> took a short hiatus from speaking in 2015 as he relocates from Singapore to Auckland (New Zealand). <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> returned to speaking in 2017 and is passionate about:
+After a successful 8-year streak, <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> took a short hiatus from speaking in 2015 as he relocates from Singapore to Auckland (New Zealand). <a href="https://darrensim.io/about/" target="_blank" rel="noopener">Darren</a> returned to speaking in 2017 and is passionate about:
 <ul>
  	<li>Modern Agile</li>
  	<li>Lean Software Development</li>
