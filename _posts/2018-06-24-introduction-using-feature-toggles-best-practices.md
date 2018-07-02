@@ -45,36 +45,36 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
 <table>
    <tr>
       <td style="background-color: #bbb; font-weight: bold;"></td>
-      <td style="background-color: #bbb; font-weight: bold;">Release Toggle</td>
-      <td style="background-color: #bbb; font-weight: bold;">Experimental Toggle</td>
+      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Release Toggle</td>
+      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Experimental Toggle</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">Dynamism</td>
-      <td>Largely static, changing release toggle decision usually done in code; requiring redeployment.</td>
-      <td>Highly dynamic; changes with each request</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Dynamism</td>
+      <td style="vertical-align: top;">Largely static, changing release toggle decision usually done in code; requiring redeployment.</td>
+      <td style="vertical-align: top;">Highly dynamic; changes with each request</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">Longevity</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Longevity</td>
       <td>Transitionary by nature; should not stick around longer than 1 weeks.</td>
       <td>Long enough to generate statically significant results, usually kept around for hours to weeks.</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">Benefits</td>
-      <td>Allows incomplete and untested code-paths to be deployed to production.</td>
-      <td>Provides development team with means to make data-driven decisions.</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Benefits</td>
+      <td style="vertical-align: top;">Allows incomplete and untested code-paths to be deployed to production.</td>
+      <td style="vertical-align: top;">Provides development team with means to make data-driven decisions.</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">Disadvantages</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Disadvantages</td>
       <td>Results in dead code that will not add value to anyone.</td>
       <td>Highly dynamic in nature, requiring a third-party services; a conscious technical debt.</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">Implementation</td>
-      <td>By hardcoding the condition in the if-statement to false.</td>
-      <td>Usually by means of an external feature toggle web service.</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Implementation</td>
+      <td style="vertical-align: top;">By hardcoding the condition in the if-statement to false.</td>
+      <td style="vertical-align: top;">Usually by means of an external feature toggle web service.</td>
    </tr>
    <tr>
-      <td style="background-color: #ddd; font-weight: bold;">When to Use</td>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">When to Use</td>
       <td>When developing code that is not ready for consumption and has a high risk of breaking the application.</td>
       <td>When performing multivariate testing (e.g. AB Testing)</td>
    </tr>
