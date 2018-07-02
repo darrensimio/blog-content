@@ -1,13 +1,13 @@
 ---
 ID: 225
 post_title: >
-  Introduction to Using Feature Toggles
-  and Best Practices
+  Introduction to Feature Toggles and
+  Implementation Best Practices
 author: Darren Sim
 post_excerpt: ""
 layout: post
 permalink: >
-  https://darrensim.io/posts/introduction-using-feature-toggles-best-practices/
+  https://darrensim.io/posts/introduction-to-feature-toggles-and-implementation-best-practices/
 published: true
 post_date: 2018-06-24 18:40:40
 ---
