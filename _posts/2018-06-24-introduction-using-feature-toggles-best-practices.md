@@ -42,7 +42,7 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
 
 <strong>Short-Lived Toggles</strong>
 
-<table>
+<table style="width: 100%;">
    <tr>
       <td style="background-color: #bbb; font-weight: bold;"></td>
       <td style="background-color: #bbb; font-weight: bold; text-align: center;">Release Toggle</td>
@@ -55,8 +55,8 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Longevity</td>
-      <td>Transitionary by nature; should not stick around longer than 1 weeks.</td>
-      <td>Long enough to generate statically significant results, usually kept around for hours to weeks.</td>
+      <td style="vertical-align: top;">Transitionary by nature; should not stick around longer than 1 weeks.</td>
+      <td style="vertical-align: top;">Long enough to generate statically significant results, usually kept around for hours to weeks.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Benefits</td>
@@ -65,8 +65,8 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Disadvantages</td>
-      <td>Results in dead code that will not add value to anyone.</td>
-      <td>Highly dynamic in nature, requiring a third-party services; a conscious technical debt.</td>
+      <td style="vertical-align: top;">Results in dead code that will not add value to anyone.</td>
+      <td style="vertical-align: top;">Highly dynamic in nature, requiring a third-party services; a conscious technical debt.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Implementation</td>
@@ -75,12 +75,50 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">When to Use</td>
-      <td>When developing code that is not ready for consumption and has a high risk of breaking the application.</td>
-      <td>When performing multivariate testing (e.g. AB Testing)</td>
+      <td style="vertical-align: top;">When developing code that is not ready for consumption and has a high risk of breaking the application.</td>
+      <td style="vertical-align: top;">When performing multivariate testing (e.g. AB Testing)</td>
    </tr>
 </table>
 
 <strong>Long-Lived Toggles</strong>
+
+<table style="width: 100%;">
+   <tr>
+      <td style="background-color: #bbb; font-weight: bold;"></td>
+      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Operation Toggle</td>
+      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Permission Toggle</td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Dynamism</td>
+      <td style="vertical-align: top;">Relatively static; changes be done with runtime reconfiguration.</td>
+      <td style="vertical-align: top;">Highly dynamic in nature; changes may happen between requests.</td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Longevity</td>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;"></td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Benefits</td>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;"></td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Disadvantages</td>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;"></td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">Implementation</td>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;"></td>
+   </tr>
+   <tr>
+      <td style="background-color: #ddd; font-weight: bold; text-align: center;">When to Use</td>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;"></td>
+   </tr>
+</table>
 
 While this categorization is by no means all-encompassing, it serves as a good reference when making decisions on designing Feature Toggles implementations.
 <h3>My Team’s Experience with Feature Toggles</h3>
