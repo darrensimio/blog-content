@@ -95,28 +95,28 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Longevity</td>
-      <td style="vertical-align: top;"></td>
-      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Usually from weeks to years.</td>
+      <td style="vertical-align: top;">Usually spanning months to years.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Benefits</td>
-      <td style="vertical-align: top;"></td>
-      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Allows system operators to disable / degrade a low performing feature quickly without having to perform a redeployment of the code.</td>
+      <td style="vertical-align: top;">Perform targeted experiments and learnings.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Disadvantages</td>
-      <td style="vertical-align: top;"></td>
-      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Tends to stick around forever; leading to increased system complexity.</td>
+      <td style="vertical-align: top;">Tends to stick around forever; leading to increased system complexity.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Implementation</td>
-      <td style="vertical-align: top;"></td>
-      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">By means of a config file on a CDN or other means of data cache services.</td>
+      <td style="vertical-align: top;">Usually by means of an external feature toggle web service.</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">When to Use</td>
-      <td style="vertical-align: top;"></td>
-      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">When rolling out a new feature with unclear performance impact.</td>
+      <td style="vertical-align: top;">Used in cases of dog-fooding, alpha and beta programs.</td>
    </tr>
 </table>
 
