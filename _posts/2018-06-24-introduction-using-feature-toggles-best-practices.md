@@ -44,9 +44,9 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
 
 <table style="width: 100%;">
    <tr>
-      <td style="background-color: #bbb; font-weight: bold;"></td>
-      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Release Toggle</td>
-      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Experimental Toggle</td>
+      <td style="width: 20%; background-color: #bbb; font-weight: bold;"></td>
+      <td style="width: 40%; background-color: #bbb; font-weight: bold; text-align: center;">Release Toggle</td>
+      <td style="width: 40%; background-color: #bbb; font-weight: bold; text-align: center;">Experimental Toggle</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Dynamism</td>
@@ -84,9 +84,9 @@ In his thought-leading article <a href="https://martinfowler.com/articles/featur
 
 <table style="width: 100%;">
    <tr>
-      <td style="background-color: #bbb; font-weight: bold;"></td>
-      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Operation Toggle</td>
-      <td style="background-color: #bbb; font-weight: bold; text-align: center;">Permission Toggle</td>
+      <td style="width: 20%; background-color: #bbb; font-weight: bold;"></td>
+      <td style="width: 40%; background-color: #bbb; font-weight: bold; text-align: center;">Operation Toggle</td>
+      <td style="width: 40%; background-color: #bbb; font-weight: bold; text-align: center;">Permission Toggle</td>
    </tr>
    <tr>
       <td style="background-color: #ddd; font-weight: bold; text-align: center;">Dynamism</td>
