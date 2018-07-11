@@ -10,7 +10,7 @@ published: true
 post_date: 2018-07-10 09:40:14
 ---
 <h2>Introduction</h2>
-&nbsp;
+<h2>Format</h2>
 <h2>Course Syllabus</h2>
 <h3>Programming Paradigms</h3>
 <strong>Object Oriented Programming</strong>
