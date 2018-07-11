@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-10 09:40:14
 ---
-[vc_row][vc_column][vc_column_text]
-<h2>Syllabus</h2>
-[/vc_column_text][vc_column_text]
+<h2>Course Syllabus</h2>
 <ul>
  	<li>Programming Paradigms</li>
  	<li>Gang-of-Four Design Patterns</li>
@@ -72,4 +70,3 @@ post_date: 2018-07-10 09:40:14
  	<li>Threat Modelling</li>
  	<li>DCI</li>
 </ul>
-[/vc_column_text][/vc_column][/vc_row]
