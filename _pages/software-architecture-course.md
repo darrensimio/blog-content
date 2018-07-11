@@ -15,6 +15,8 @@ post_date: 2018-07-10 09:40:14
 <ul>
  	<li><a href="https://slides.com/darrensimio/oop-inheritance-composition/" target="_blank" rel="noopener">OOP - Inheritance vs Composition</a></li>
  	<li><a href="https://slides.com/darrensimio/oop-interface-abstract-classes" target="_blank" rel="noopener">OOP - Interface vs Abstract Classes</a></li>
+</ul>
+<ul>
  	<li>Gang-of-Four Design Patterns</li>
  	<li>Software Design Mindsets &amp; Principles
 <ul>
