@@ -43,6 +43,7 @@ Usually 120 minutes (2 hours) to 240 minutes (4 hours). 90 minutes might work in
 
 <strong>The Setup - What resources are required to run a Code Kata session?</strong>
 <ul>
+ 	<li>Ideally a Conference / Meeting Room. Team area can work too.</li>
  	<li>Table and chairs</li>
  	<li>1 computer (laptop /pc) for every 2 persons</li>
  	<li>Whiteboard</li>
