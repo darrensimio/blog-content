@@ -34,7 +34,7 @@ This helps the team:
  	<li>see that this new practice can actually work in real world production work, and</li>
  	<li>opens up the opportunity for feedback on how the team might be able to improve their ways of working.</li>
 </ul>
-<h3>Frequently Asked Questions (FAQ)</h3>
+<h2>Frequently Asked Questions (FAQ)</h2>
 <strong>Duration - How long should a Kata be?</strong>
 Usually 120 minutes (2 hours) to 240 minutes (4 hours). 90 minutes might work in some situations where the team is already familiar with Katas and has some basic understanding (not necessarily practical) of the practice.
 
@@ -80,7 +80,6 @@ Talk through with participants on what they have learnt from the session, what i
 </tr>
 </tbody>
 </table>
-
 <strong>Developer Code Katas Resources - What types of Developer Code Katas are available?</strong>
 <table style="width: 100%;">
 <tbody>
@@ -94,13 +93,13 @@ Talk through with participants on what they have learnt from the session, what i
 <td style="font-weight: bold; vertical-align: top;">String Calculator Kata</td>
 <td style="verticle-align: top;">Test Driven Development (TDD)</td>
 <td style="verticle-align: top; text-align: center;">Low</td>
-<td style="verticle-align: top; text-align: center;">&nbsp;</td>
+<td style="verticle-align: top; text-align: center;"></td>
 </tr>
 <tr>
 <td style="font-weight: bold; vertical-align: top;">Guilded Rose Kata</td>
 <td style="verticle-align: top;">Refactoring</td>
 <td style="verticle-align: top; text-align: center;">Low</td>
-<td style="verticle-align: top; text-align: center;">&nbsp;</td>
+<td style="verticle-align: top; text-align: center;"></td>
 </tr>
 </tbody>
 </table>
