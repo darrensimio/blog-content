@@ -95,5 +95,12 @@ Talk through with participants on what they have learnt from the session, what i
 <td style="verticle-align: top;">Test Driven Development (TDD)</td>
 <td style="verticle-align: top; text-align: center;">Low</td>
 <td style="verticle-align: top; text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-weight: bold; vertical-align: top;">Guilded Rose Kata</td>
+<td style="verticle-align: top;">Refactoring</td>
+<td style="verticle-align: top; text-align: center;">Low</td>
+<td style="verticle-align: top; text-align: center;">&nbsp;</td>
+</tr>
 </tbody>
 </table>
