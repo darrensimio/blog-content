@@ -55,8 +55,8 @@ Usually 120 minutes (2 hours) to 240 minutes (4 hours). 90 minutes might work in
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 30%; font-weight: bold; text-align: center; background-color: #ccc;">Timeline</td>
-<td style="width: 70%; font-weight: bold; text-align: center; background-color: #ccc;">Activity</td>
+<td style="width: 20%; font-weight: bold; text-align: center; background-color: #ccc;">Timeline</td>
+<td style="width: 80%; font-weight: bold; text-align: center; background-color: #ccc;">Activity</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; font-weight: bold;">10 Minutes</td>
