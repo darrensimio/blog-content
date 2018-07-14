@@ -87,8 +87,8 @@ Talk through with participants on what they have learnt from the session, what i
 <tr>
 <td style="width: 25%; font-weight: bold; text-align: center; background-color: #ccc;">Kata</td>
 <td style="width: 25%; font-weight: bold; text-align: center; background-color: #ccc;">Practices</td>
-<td style="width: 10%; font-weight: bold; text-align: center; background-color: #ccc;">Difficulty</td>
-<td style="width: 40%; font-weight: bold; text-align: center; background-color: #ccc;">Resources</td>
+<td style="width: 12%; font-weight: bold; text-align: center; background-color: #ccc;">Difficulty</td>
+<td style="width: 38%; font-weight: bold; text-align: center; background-color: #ccc;">Resources</td>
 </tr>
 <tr>
 <td style="font-weight: bold; vertical-align: top;">String Calculator Kata</td>
