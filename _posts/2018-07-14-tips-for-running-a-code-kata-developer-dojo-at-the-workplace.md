@@ -66,20 +66,34 @@ Covering health &amp; safely briefs, evacuation procedures, kata pre-requisites,
 <tr>
 <td style="text-align: center; vertical-align: top; font-weight: bold;">20 Minutes</td>
 <td><strong>Presentation on Concepts and Techniques</strong>
-Introduction to concepts and practices that will be exercised within the Kata (e.g. TDD).
-</td>
+Introduction to concepts and practices that will be exercised within the Kata (e.g. TDD).</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; font-weight: bold;">80 Minutes</td>
 <td><strong>Interactive Kata Session</strong>
-Participants are formed into groups (e.g. pairs) to work on the katas. Various collaboration techniques can be introduced, in addition to the kata. It is recommended to perform a pulse check once every 20 minutes - this is a good time to swap pairs.
-</td>
+Participants are formed into groups (e.g. pairs) to work on the katas. Various collaboration techniques can be introduced, in addition to the kata. It is recommended to perform a pulse check once every 20 minutes - this is a good time to swap pairs.</td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: top; font-weight: bold;">10 Minutes</td>
 <td><strong>Retrospect on Activity</strong>
-Talk through with participants on what they have learnt from the session, what it might be improved and how might they apply how they learnt into their ways of working.
-</td>
+Talk through with participants on what they have learnt from the session, what it might be improved and how might they apply how they learnt into their ways of working.</td>
 </tr>
+</tbody>
+</table>
+
+<strong>Developer Code Katas Resources - What types of Developer Code Katas are available?</strong>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%; font-weight: bold; text-align: center; background-color: #ccc;">Kata</td>
+<td style="width: 25%; font-weight: bold; text-align: center; background-color: #ccc;">Practices</td>
+<td style="width: 10%; font-weight: bold; text-align: center; background-color: #ccc;">Difficulty</td>
+<td style="width: 40%; font-weight: bold; text-align: center; background-color: #ccc;">Resources</td>
+</tr>
+<tr>
+<td>String Calculator Kata</td>
+<td>Test Driven Development (TDD)</td>
+<td>Low</td>
+<td>&nbsp;</td>
 </tbody>
 </table>
