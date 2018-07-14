@@ -91,9 +91,9 @@ Talk through with participants on what they have learnt from the session, what i
 <td style="width: 40%; font-weight: bold; text-align: center; background-color: #ccc;">Resources</td>
 </tr>
 <tr>
-<td>String Calculator Kata</td>
-<td>Test Driven Development (TDD)</td>
-<td>Low</td>
-<td>&nbsp;</td>
+<td style="font-weight: bold; vertical-align: top;">String Calculator Kata</td>
+<td style="verticle-align: top;">Test Driven Development (TDD)</td>
+<td style="verticle-align: top; text-align: center;">Low</td>
+<td style="verticle-align: top; text-align: center;">&nbsp;</td>
 </tbody>
 </table>
